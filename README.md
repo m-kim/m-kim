@@ -1,5 +1,9 @@
 ### Hi, I'm Mark.
 
+I'm a senior software engineer at Qualcomm on the Graphics Research Team. I'm currently working on ray tracing. 
+
+Previously, I was a computer scientist at Oak Ridge National Laboratory. I did in situ analysis and visualization at scale.
+
 <!--
 **m-kim/m-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
