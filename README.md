@@ -1,6 +1,6 @@
 ### Hi, I'm Mark.
 
-I'm a research engineer at Qualcomm on the Graphics Research Team. I'm currently working on real-time ray tracing. 
+I'm a research engineer at Qualcomm on the Graphics Research Team. I'm currently working on ray tracing. 
 
 Previously, I was a computer scientist at Oak Ridge National Laboratory. I did in situ scientific visualization for HPC.
 
