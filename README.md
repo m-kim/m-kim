@@ -1,8 +1,8 @@
 ### Hi, I'm Mark.
 
-I'm a research engineer at Qualcomm on the Graphics Research Team. I'm currently working on ray tracing. 
+I'm a Application Engineer for ray tracing at Intel. 
 
-Previously, I was a computer scientist at Oak Ridge National Laboratory. I did in situ scientific visualization for HPC.
+Previously, I was a research engineer at Qualcomm on the Graphics Research Team. Prior to that, I was a computer scientist at Oak Ridge National Laboratory. I did in situ scientific visualization for HPC.
 
 <!--
 **m-kim/m-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
